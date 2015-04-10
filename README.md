@@ -22,3 +22,9 @@ If it boots, it can run the client.
 ## How do I install Ocean Link?
 ### Workstation
 Copy the program files to a location of your choosing. Then add a link from the desktop to *workstation.exe* if neccesary.
+
+### Server
+Run the setup script file (*setup.bat* or *setup.sh*). Note that you must be *Administrator* or *sudo* since it involves modifying your enviroment PATH variable. The setup script will prompt you for information as needed. The setup script will take care of all dependencies.
+
+### Client
+Run the setup script file (*setup.bat* or *setup.sh*). Note that you must be *Administrator* or *sudo* since it involves modifying your enviroment PATH variable. The setup script will prompt you for information as needed. The setup script will take care of all dependencies.
